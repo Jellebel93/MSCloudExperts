@@ -18,6 +18,13 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 
+# =========================
+# Wordpress files
+# =========================
+wp-config.php
+wp-content/uploads
+
+
 # OSX
 # =========================
 
